@@ -868,6 +868,8 @@ function Sizzle( selector, context, results, seed ) {
 						context.setAttribute( "id", (nid = expando) );
 					}
 
+
+
 					// Prefix every selector in the list
 					groups = tokenize( selector );
 					i = groups.length;
